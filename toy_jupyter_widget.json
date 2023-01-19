@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "toy_jupyter_widget/extension": true
+  }
+}
